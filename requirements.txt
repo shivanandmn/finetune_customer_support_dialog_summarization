@@ -1,0 +1,12 @@
+transformers
+pandas
+accelerate
+bitsandbytes
+evaluate
+datasets
+python-dotenv
+
+#metrics
+peft
+rouge-score
+bert-score
